@@ -12,7 +12,7 @@ Technology and Society.
 
 Summary of the paper:
 
-It examines legislation and case law in regard to 3D printing in 5 areas:
+It examines UK legislation and case law in regard to 3D printing in 5 areas:
  - Copyright: unregistered right that protects artists and creative works
  - Design protection: exists in both registered and unregistered forms,
    protects the distinctive shape and appearance of items
@@ -60,3 +60,75 @@ rights such as trademarks, patents, etc.  Bridget owns some ACME goods, she
 designs blueprints for spare or accessory parts for ACME goods, and uses a 3D
 printer to print them out.  She shares the blueprints on the internet with
 Charlie, who also prints and uses the parts.
+
+Registered Design
+
+Companies can protect the design of products: lines, contours, colors, shape,
+texture, materials.  There are some constraints to such protection, and most
+uses of 3D printing fall under the exceptions:
+ - Component parts: parts invisible to the user cannot be protected.
+ - Design dictated by function: when there is only one way to design a part, it
+   cannot be protected.
+ - Must Fix: when the shape is determined by the need to connect to or fit into
+   or around other parts.
+   
+Furthermore, private non-commercial purposes do not infringe design protection.
+
+Unregistered Design
+
+UK-specific, applies automatically to the shape and configuration of an item,
+but not its decoration.
+
+Domestic use of 3D printing will infringe neither registered nor unregistered
+design protection.
+
+Copyright
+
+Applies to artistic works, requires actual copying, where "substantial copying"
+is sufficient to infringe.  The definition of "artistic work" is very specific
+to UK law.  Definition of Paintings and 2D works are very specific, but
+definition of sculpture is vague.  The biggest problem would be if a 3D printer
+would print a protected picture on a surface.  Also, there are exceptions for
+non-commercial use.
+
+What about copyright of blueprints?  The copyright of a blueprint is not
+infringed by making an object from it.  For example, making a Star Wars
+Stormtrooper helmet from concept art was considered to be no infringement.
+Copying original blueprints however is illegal.  Reverse-engineering a
+blueprint from an existing object is a copyright infringement only when done
+for commercial purposes.  Note: this is all due to UK case law.
+
+Patents
+
+Private non-commercial copying don't infringe patents.  Uploading blueprints to
+the internet could be problematic though, because it enables others to infringe
+patents.  It is unclear whether a blueprint alone already enables others.
+
+Trade Marks
+
+There is no private-use clause in UK trade mark law, but obviously personal use
+is never "in the course of trade".  Commercial example: If a car repair shop
+would print a replacement part to fix a customer's car, it only infringes trade
+marks if the part has the car company logo on it, so the origin of the item
+could be confused.  Putting a car logo on a miniature model doesn't infringe
+the trade mark, because nobody would confuse a model car with a real car.
+
+Passing Off
+
+Similar to trade marks, but UK-only anyway.
+
+Conclusion
+
+Under UK jurisdiction, personal use of 3D printing does not infringe the
+majority of IP rights.
+
+This could be interesting for us:  If 3D printing becomes so widespread that
+companies' business models become affected, they will react.  The reaction
+would probably be similar to their reaction on music copying on the internet:
+technical: DRM, and legal: lobbying for stronger legislative measures.  DRM or
+somesuch would obviously be useless, because you cannot technically protect an
+item from being examined or reverse engineered.
+
+Legal measures could be: removal of private-use clauses from the various laws
+that have them.  This would require change of EU directive underlying these
+laws.
