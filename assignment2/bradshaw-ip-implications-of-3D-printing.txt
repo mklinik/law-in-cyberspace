@@ -1,0 +1,62 @@
+Bradshaw et al, 2012, The intellectual property implications of low-cost 3D printing
+
+Authors:
+Simon Bradshaw, Center for Commercial Law Studies, University of London
+Adrian Bowyer, Mechanical Engineering, Bath University
+Patrick Haufe, Biological Materials, University of Applied Sciences Bremen
+
+Bowyer is the inventor of RepRap, the Replicating Rapid Prototyper.
+
+The document is a legal paper, published in SCRIPTed, a journal of Law,
+Technology and Society.
+
+Summary of the paper:
+
+It examines legislation and case law in regard to 3D printing in 5 areas:
+ - Copyright: unregistered right that protects artists and creative works
+ - Design protection: exists in both registered and unregistered forms,
+   protects the distinctive shape and appearance of items
+ - Patents: registered right that protects novel and innovative products
+ - Trade marks: serve to inform customers of the origin of goods
+ - Passing off: English common law concept similar to trade marks
+
+Their conclusion is that private 3D printer owners making items for personal
+use are exempt from the vast majority of IP constraints, and commercial users
+are less restricted than one might expect.
+
+There are three principal ways to manufacture a physical object:
+ - Subtractive: Cutting shapes out of a block of material
+ - Additive: Adding material piecemeal to build shapes
+ - Molding: Forming liquid or plastic material into shapes and harden them
+
+These methods have been industrialized and automated, but the problem with
+cutting is that the paths along which a machine must drive the cutter cannot
+easily be calculated by a computer.  Only for the simplest of shapes.
+
+3D-printing is an additive method, there are two principal methods:
+ - A platform is lowered into a basin of special liquid and a laser hardens the
+   liquid layer by layer
+ - Fused-filament fabrication: molten plastic is extruded from a movable
+   nozzle, building the object layer by layer
+
+The main advantage of these two methods is that the machine's movement is not
+restricted by the object being created. Above the currently printed layer there
+is freedom to move in all directions.  This makes it easy to calculate movement
+paths from blueprints.
+
+What is the use of a 3D printer?
+
+- Spare parts
+- Craft and hobby items
+- Educational use
+- Unique requirements
+- Fashion accessories
+
+Intellectual Property Implications
+
+Typical use case for a 3D printer:  manufacturer ACME, customer Bridget,
+internet user Charlie.  ACME produces a range of goods, protected by various IP
+rights such as trademarks, patents, etc.  Bridget owns some ACME goods, she
+designs blueprints for spare or accessory parts for ACME goods, and uses a 3D
+printer to print them out.  She shares the blueprints on the internet with
+Charlie, who also prints and uses the parts.
