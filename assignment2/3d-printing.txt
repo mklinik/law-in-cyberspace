@@ -1,0 +1,30 @@
+What is 3D Printing?
+
+A 3D Printer is a machine that, given a blueprint in form of a computer file,
+produces a physical object according to the blueprint.
+
+Let's call the person using a 3D printer the "user", and the person creating
+blueprints the "designer".  If an existing physical object is involved, the
+party that made the object will be called "manufacturer".
+
+Designers can create blueprints in various ways, the most common are:
+ - Using a 3D scanner to measure the spatial features of an existing object.
+ - Using a blueprint design software to create blueprints by hand.
+
+For the latter option, the designer can use an existing object as reference or
+create a completely new blueprint without referring to any specific existing
+object.
+
+When there is an existing object involved, the manufacturer may not approve
+with its reproduction, and the object may be protected by various intellectual
+property laws.  Bradshaw et al (TODO ref) conclude that private use of 3D
+printers is allowed by most IP laws in the UK, and because UK law is derived
+from EU directives, similar exceptions should hold in other EU member states.
+
+Now, as 3D printing gets more widespread and private use starts to impact
+business models of manufacturers, they will most likely take action to reduce
+these activities.  Just like in the past with sharing of music, a number of
+different responses are to be expected.  Manufacturers might try to influence
+legislation to strengthen IP law for example by removing or weakening
+private-use clauses.  They might try to apply existing IP laws and file charges
+against users of 3D printers.
